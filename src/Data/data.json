@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Moin Ansari",
+    "label": "Frontend Developer",
+    "email": "steverogers19a@gmail.com",
+    "phone": "+91 8535013309",
+    "summary": "Passionate Frontend Developer specializing in React and C#, focused on building scalable, component-based architectures and clean UI/UX.",
+    "location": {
+      "city": "Muzaffarnagar",
+      "region": "Uttar Pradesh",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/moin-ansari-a61244374",
+        "username": "moin-ansari"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/Moin-Ansari777",
+        "username": "Moin-Ansari777"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "progress" : 90,
+      "logo" : "FaHtml5",
+      "name": "Web Fundamentals",
+      "level": "Expert",
+      "keywords": ["HTML5", "Semantic HTML"]
+    },
+     {
+      "progress": 84,
+      "logo" : "FaCss3",
+      "name": "Styling & UI",
+      "level": "Advanced",
+      "keywords": ["CSS3", "Tailwind CSS", "DaisyUI"]
+    },
+    {
+      "progress" : 88,
+      "logo" : "IoLogoJavascript",
+      "name": "Core Logic",
+      "level": "Advanced",
+      "keywords": [ "JavaScript (ES6+)", "Async Programming"]
+    },
+   
+     {
+      "progress" : 80,
+      "logo" : "FaReact",
+      "name": "Frontend Frameworks",
+      "level": "Advanced",
+      "keywords": ["React", "Functional Components", "Hooks", "Component-Based Architecture"]
+    },
+    {
+      "progress" : 85,
+      "logo" : "C#",
+      "name": "Backend & OOP",
+      "level": "Intermediate",
+      "keywords": ["C#", "Object-Oriented Programming (OOP)"]
+    },
+     {
+      "progress" : 85,
+      "logo" : "Webforms",
+      "name": "Webforms Skill",
+      "level": "Intermediate",
+      "keywords": ["Webforms","C#", "Gridview Repeater SQL MasterPage ServerSide", "Programming (OOP)"]
+    }
+
+  ],
+  "meta": {
+    "lastUpdated": "2026-02-28",
+    "version": "2.0"
+  }
+}
