@@ -22,7 +22,7 @@ const projects = [
     description: "Enterprise-level web form with robust authentication, SQL database integration, and Bootstrap styling.",
     tech: ["Html", "SQL Database", "Bootstrap", "WebForms"],
     icon: <FaShoppingCart />,
-    link: "#",
+    link: "https://github.com/Moin-Ansari777/E-commerce-Project",
     badge: "Full Stack"
   }
 ];
