@@ -66,6 +66,13 @@
       "name": "Webforms Skill",
       "level": "Intermediate",
       "keywords": ["Webforms","C#", "Gridview Repeater SQL MasterPage ServerSide", "Programming (OOP)"]
+    },
+    {
+      "progress" : 85,
+      "logo" : "Dotnet",
+      "name": "Asp.Net Core Mvc ",
+      "level": "Intermediate",
+      "keywords": ["Asp.Net Core Mvc","DI","Routing","Razor Pages","C#",", "Programming (OOP)"]
     }
 
   ],
